@@ -61,6 +61,7 @@ body {
     font-size: 30px;
   }
   .resultText{
+    background-color: red;
     width: 250px;
   }
 }
