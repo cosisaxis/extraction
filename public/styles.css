@@ -43,28 +43,9 @@ body {
     background-color: #0056b3;
   }
 
-  /* @media (max-width: 600px) {
+  @media (max-width: 600px) {
     .container {
-      width: 95%;
+      width: 85%;
     }
-  } */
+  }
 
-  @media (max-width: 768px) {
-    textarea {
-      width: 100%; /* Make the textarea span the full width */
-    }
-  }
-  
-  /* Media query for tablets */
-  @media (min-width: 769px) and (max-width: 1024px) {
-    .container {
-      max-width: 600px; /* Limit container width for tablets */
-      margin: 0 auto; /* Center container */
-    }
-    
-    /* You can adjust styles for input, buttons, and textarea as needed */
-    input[type="file"],
-    button {
-      width: 100%; /* Make inputs and buttons span the full width */
-    }
-  }
