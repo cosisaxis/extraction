@@ -55,7 +55,7 @@ body {
 
 @media (max-width: 600px) {
   .container {
-    width: 85%;
+    width: 80%;
   }
   .home-header {
     font-size: 30px;
