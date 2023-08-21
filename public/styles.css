@@ -46,6 +46,9 @@ body {
   @media (max-width: 600px) {
     .container {
       width: 85%;
+    } 
+    h1{
+      font-size: 40px;
     }
   }
 
